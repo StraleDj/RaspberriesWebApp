@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryWebApp.WebAPI", "RaspberryWebApp.WebAPI\RaspberryWebApp.WebAPI.csproj", "{298D7A52-E5BE-440F-8D84-A378278D67D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryWebApp.Base", "RaspberryWebApp.Base\RaspberryWebApp.Base.csproj", "{A94C429F-637F-42DC-B341-D192B3BA3866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryWebApp.Logic", "RaspberryWebApp.Logic\RaspberryWebApp.Logic.csproj", "{79596BA1-079D-4648-BA0F-48678F6F2C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryWebApp.Data", "RaspberryWebApp.Data\RaspberryWebApp.Data.csproj", "{1226BF1D-3F3F-4FF2-8390-2F5D7159D898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298D7A52-E5BE-440F-8D84-A378278D67D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298D7A52-E5BE-440F-8D84-A378278D67D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298D7A52-E5BE-440F-8D84-A378278D67D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298D7A52-E5BE-440F-8D84-A378278D67D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94C429F-637F-42DC-B341-D192B3BA3866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C429F-637F-42DC-B341-D192B3BA3866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C429F-637F-42DC-B341-D192B3BA3866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C429F-637F-42DC-B341-D192B3BA3866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79596BA1-079D-4648-BA0F-48678F6F2C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79596BA1-079D-4648-BA0F-48678F6F2C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79596BA1-079D-4648-BA0F-48678F6F2C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79596BA1-079D-4648-BA0F-48678F6F2C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1226BF1D-3F3F-4FF2-8390-2F5D7159D898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1226BF1D-3F3F-4FF2-8390-2F5D7159D898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1226BF1D-3F3F-4FF2-8390-2F5D7159D898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1226BF1D-3F3F-4FF2-8390-2F5D7159D898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
